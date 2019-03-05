@@ -1,0 +1,16 @@
+..\obj\color.o: ..\HARDWARE\COLOR\color.c
+..\obj\color.o: ..\HARDWARE\COLOR\color.h
+..\obj\color.o: ..\SYSTEM\sys\sys.h
+..\obj\color.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\color.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\color.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\color.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\color.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\color.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\color.o: ..\SYSTEM\delay\delay.h
+..\obj\color.o: ..\HARDWARE\LCD\lcd.h
+..\obj\color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\color.o: ..\HARDWARE\DCMI\dcmi.h
+..\obj\color.o: ..\SYSTEM\usart\usart.h
+..\obj\color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

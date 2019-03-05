@@ -1,0 +1,15 @@
+..\obj\kfxf.o: ..\HARDWARE\KDXF\kfxf.c
+..\obj\kfxf.o: ..\HARDWARE\KDXF\kfxf.h
+..\obj\kfxf.o: ..\SYSTEM\sys\sys.h
+..\obj\kfxf.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\kfxf.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\kfxf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\kfxf.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\kfxf.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\kfxf.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\kfxf.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\kfxf.o: ..\SYSTEM\delay\delay.h
+..\obj\kfxf.o: ..\HARDWARE\USART2\usart2.h
+..\obj\kfxf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\kfxf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\kfxf.o: ..\HARDWARE\COLOR\color.h

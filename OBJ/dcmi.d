@@ -1,0 +1,15 @@
+..\obj\dcmi.o: ..\HARDWARE\DCMI\dcmi.c
+..\obj\dcmi.o: ..\SYSTEM\sys\sys.h
+..\obj\dcmi.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\dcmi.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\dcmi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\dcmi.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\dcmi.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\dcmi.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\dcmi.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\dcmi.o: ..\HARDWARE\DCMI\dcmi.h
+..\obj\dcmi.o: ..\HARDWARE\LCD\lcd.h
+..\obj\dcmi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\dcmi.o: ..\HARDWARE\LED\led.h
+..\obj\dcmi.o: ..\HARDWARE\OV5640\ov5640.h
+..\obj\dcmi.o: ..\HARDWARE\OV5640\sccb.h
