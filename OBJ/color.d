@@ -14,3 +14,4 @@
 ..\obj\color.o: ..\HARDWARE\DCMI\dcmi.h
 ..\obj\color.o: ..\SYSTEM\usart\usart.h
 ..\obj\color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\color.o: ..\HARDWARE\KDXF\kfxf.h
